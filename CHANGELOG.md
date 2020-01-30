@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@justinbeckwith/sloth?activeTab=versions
 
+### [5.3.1](https://www.github.com/googleapis/sloth/compare/v5.3.0...v5.3.1) (2020-01-30)
+
+
+### Bug Fixes
+
+* python-bigquery-storage should be bigquerystorage ([#482](https://www.github.com/googleapis/sloth/issues/482)) ([aa3b79a](https://www.github.com/googleapis/sloth/commit/aa3b79a72ed551b7820df74b5a91514d03dd07d7))
+
 ## [5.3.0](https://www.github.com/googleapis/sloth/compare/v5.2.0...v5.3.0) (2020-01-30)
 
 
